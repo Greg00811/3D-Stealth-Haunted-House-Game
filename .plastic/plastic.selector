@@ -1,0 +1,4 @@
+repository "haunted house place/haunted house place@2475423021339@cloud"
+  path "/"
+    br "/main"
+    co "/main"
